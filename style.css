@@ -1,0 +1,214 @@
+.container1{
+    font-family: 'Cormorant', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'News Cycle', sans-serif;
+font-family: 'Philosopher', sans-serif;
+margin-top: 20px;
+font-weight: bold;
+}
+#size{
+    font-size: xx-large;
+font-weight: 400;
+word-spacing:5 ;
+margin-top: -12px;
+}
+.container2{
+    margin-top: 8%;
+font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 100%;
+text-align: center;
+}
+
+.container3{
+    position: absolute;
+    width: 840px;
+    height: 900px;
+    left: 0px;
+    right: 0px;
+    top: 500px;
+
+}
+
+.container4{
+position: absolute;
+width: 640px;
+height: 0px;
+left: 400px;
+top: 1350px;
+border: 2px solid #000000;
+}
+.container5{
+margin-left:8%;
+margin-top: 1100px;
+}
+#mika{
+    font-weight: 500;
+}
+#group4{
+    margin-top: -50px;
+    position: absolute;
+    margin-left: 385px ;
+}
+
+.container6{
+    margin-top: 50px;
+    text-align: start;
+    line-height: 40px;
+    font-family: New York Medium;
+font-size: 20px;
+font-weight:450;
+}
+#con7{
+    margin-left: 75px;
+    margin-top: 30px;
+    font-size: 32px;
+    font-weight: 1000;
+}
+#con8{font-family: SF Pro Text;
+    margin-left: 85px;
+    text-align: center;
+    font-weight:600;
+    font-size: 20px;
+
+}
+#con10{
+margin-left: 7%;
+margin-top: 30px;
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+}
+#con11{
+    margin-left: 7%;
+    margin-top: 30px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+}
+#con12{
+    margin-top: 30px;
+    margin-left: 7%;
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+}
+#con13{
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+#col14{
+    margin-top: 35px;
+    margin-left: 7%;
+    font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.03em;
+
+}
+#col16{
+    margin-top: 35px;
+    margin-left: 7%;
+}
+#col17{
+    margin-top: 90px;
+}
+hr{
+    border: 1px solid #000;
+}
+
+#col18
+{
+    font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 53px;
+text-align: center;
+margin-top: 45px;
+margin-left: 12%;
+}
+#col19{
+
+    margin-top: 45px;
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+text-align: center;
+}
+.para{
+    margin-top: 20px;
+}
+#col21{
+    margin-left: 8%;
+    margin-top: 100px;
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 28px;
+    text-align: center;
+    color: #090909;
+   
+    
+}
+#para2{
+    margin-left: 8%;
+    font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+
+}
+#border{
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+   padding-top: 30px;
+   padding-bottom: 40px;
+}
+#text{
+    width: 250px;
+}
+#col22{color: blanchedalmond;
+    margin-top: 100px;
+    text-align: center;
+}
+#col23
+{
+    font-family: 'Cormorant', serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'News Cycle', sans-serif;
+    font-family: 'Philosopher', sans-serif;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 10%;
+    color: blanchedalmond;
+}
+#col24{color: blanchedalmond;
+    text-align: center;
+}
+#col25{color: blanchedalmond;
+    margin-left: 10%;
+    margin-top: 35px;
+    text-align: center;
+}
+#fluid
+{
+    margin-top: 100px;
+    background-color: black;
+}
